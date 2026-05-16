@@ -1,0 +1,13 @@
+{
+  "start_message": "Welcome to the Support Bot! How can I help you?",
+  "support_prompt": "Please type your message and it will be forwarded to support.",
+  "support_received": "Message received. Support will reply soon.",
+  "admin_received": "New message from user:\n👤 ID: {user_id}\n📝 Message: {message}",
+  "language_changed": "Language changed to English 🇺🇸",
+  "dev_support": "Choose the number of stars to support the developer:",
+  "enter_custom_amount": "Please enter the number of stars you want to pay:",
+  "invalid_amount": "⚠️ Please enter a valid number greater than 0.",
+  "thanks_support": "Thanks for your support! 🌟 Payment request created.",
+  "admin_panel": "Admin Panel",
+  "stats": "📊 Bot Statistics:\n👥 Total Users: {users}"
+}
